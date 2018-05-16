@@ -8,8 +8,10 @@ def load_library(emoticon)
   
   library = {
     "get_meaning" => {},
-    "get_"
+    "get_emoticon" => {}
   }
+  
+  
   
 end
 
