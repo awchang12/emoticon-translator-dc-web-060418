@@ -40,4 +40,5 @@ def get_english_meaning(file, emoticon)
     library["get_meaning"][emoticon]
   else
     "Sorry, that emoticon was not found"
+  end
 end
