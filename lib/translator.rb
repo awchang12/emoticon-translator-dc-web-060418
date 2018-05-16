@@ -36,5 +36,8 @@ def get_english_meaning(file, emoticon)
   # code goes here
   library = load_library(file)
   
-  if
+  if library["get_meaning"].include?(emoticon)
+    library["get_meaning"][emoticon]
+  else
+    "Sorry, tat"
 end
