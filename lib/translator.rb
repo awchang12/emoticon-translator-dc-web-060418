@@ -14,7 +14,8 @@ def load_library(emoticon)
   emotes.each do |meaning, text|
     emotes_english = text[0]
     emotes_japanese = text[1]
-  end
+  
+  library[]
   
 end
 
