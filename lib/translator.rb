@@ -12,7 +12,7 @@ def load_library(emoticon)
   }
   
   emotes.each do |meaning, text|
-    
+    emotes
   
 end
 
