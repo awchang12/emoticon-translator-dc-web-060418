@@ -11,7 +11,7 @@ def load_library(emoticon)
     "get_emoticon" => {}
   }
   
-  
+  emotico
   
 end
 
