@@ -23,7 +23,7 @@ end
 
 def get_japanese_emoticon(file, emoticon)
   # code goes here
-  library = load_libary(file)
+  library = load_library(file)
   
   if library["get_meaning"].include?(emoticon)
     library[:"get_meaning"][emoticon]
