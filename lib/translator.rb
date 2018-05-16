@@ -7,7 +7,7 @@ def load_library(emoticon)
   emotes = YAML.load_file(emoticon)
   
   library = {
-    
+    "get_meaning"
   }
   
 end
