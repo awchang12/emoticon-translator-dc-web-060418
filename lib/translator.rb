@@ -11,7 +11,8 @@ def load_library(emoticon)
     "get_emoticon" => {}
   }
   
-  emotes.each do |
+  emotes.each do |meaning, text|
+    
   
 end
 
