@@ -16,7 +16,7 @@ def load_library(emoticon)
     emotes_japanese = text[1]
   
   library["get_meaning"][emotes_japanese] = meaning
-  library["get_emoticon"]
+  library["get_emoticon"][]
   
 end
 
